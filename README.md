@@ -1,7 +1,8 @@
-👾 Hi! I'm Vanessa Contreras
+-- Hi! I'm Vanessa --
 
 🎨 Full Stack Web Developer & Illustrator  
-📐 Architect by degree, developer by passion  
+📐 Architect by degree, developer by passion
+🌍 Located in Santiago, Chile [ENG/ESP]
 💡 I love blending design with functionality to build meaningful digital experiences  
 🌱 Currently learning and growing every day  
 

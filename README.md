@@ -45,13 +45,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![VN-Core's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vn-core&show_icons=true&theme=radical)
-
-
----
-
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vanessa--nicole--contreras--orellana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-nicole-contreras-orellana-041a35346/)

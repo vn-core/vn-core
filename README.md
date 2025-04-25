@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Vanessa Contreras
+👾 Hi! I'm Vanessa Contreras
 
 🎨 Full Stack Web Developer & Illustrator  
 📐 Architect by degree, developer by passion  
@@ -47,14 +47,15 @@
 
 ## 📈 GitHub Stats
 
-![Vanessa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VanessaContreras&show_icons=true&theme=radical)
+![VN-Core's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vn-core&show_icons=true&theme=radical)
+
 
 ---
 
-## 📫 Let's Connect!
+## 🔗 Connect with me
 
-- GitHub: [@VanessaContreras](https://github.com/VanessaContreras)
-- LinkedIn: *Add your LinkedIn link here*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vanessa--nicole--contreras--orellana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-nicole-contreras-orellana-041a35346/)
+
 
 
 

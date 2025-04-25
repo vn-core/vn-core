@@ -1,4 +1,4 @@
-# Hi! I'm Vanessa 👋
+# Hi! I'm Vanessa 🐰
 
 ## 💻🎨 Full Stack Web Developer & Illustrator  
 📐 Architect by degree, developer by passion  

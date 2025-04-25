@@ -11,12 +11,12 @@
 
 <p align="left">
   <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/html5.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/pgadmin.png" alt="PG Admin" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/css3.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/icons8-javascript-500.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/icons8-react-480.png" alt="React" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/node.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/pgadmin.png" alt="PG Admin" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/mysql.png" alt="MySQL" width="40" height="40"/>
 </p>
 
 ---
@@ -24,11 +24,11 @@
 ## 🎨 Design Skills
 
 <p align="left">
-  <img src="https://img.icons8.com/fluency/48/figma.png" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/procreate.png" alt="Procreate" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios/50/responsive.png" alt="Responsive Design" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/figma.png" alt="Figma" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/photoshop.png" alt="Photoshop" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/illustrator.png" alt="Illustrator" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/procreate.png" alt="Procreate" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/responsive.png" alt="Responsive Design" width="40" height="40"/>
 </p>
 
 ---
@@ -36,11 +36,11 @@
 ## 🧰 Tools & Agile Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/trello.png" alt="Trello" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/jira.png" alt="Jira" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/tailwind.png" alt="Tailwind" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/trello.png" alt="Trello" width="40" height="40"/>
+  <img src="https://github.com/vn-core/vn-core/blob/main/assets/img/jira.png" alt="Jira" width="40" height="40"/>
 </p>
 
 ---

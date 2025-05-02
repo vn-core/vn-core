@@ -49,9 +49,9 @@
 ## 🌐 Portfolio [ENG/ESP]
 
 Check out my portfolio in both Spanish and English:  
-👉 [https://portfolio-eight-sigma-85.vercel.app](https://portfolio-eight-sigma-85.vercel.app)
+[https://portfolio-eight-sigma-85.vercel.app](https://portfolio-eight-sigma-85.vercel.app)
 
-You’ll also find a downloadable CV in English there!
+You’ll also find a downloadable CV in English and Spanish there!
 
 ---
 

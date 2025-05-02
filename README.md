@@ -46,6 +46,15 @@
 
 ---
 
+## 🌐 Portfolio [ENG/ESP]
+
+Check out my portfolio in both Spanish and English:  
+👉 [https://portfolio-eight-sigma-85.vercel.app](https://portfolio-eight-sigma-85.vercel.app)
+
+You’ll also find a downloadable CV in English there!
+
+---
+
 ## 🔗 Connect with me
 
 <p align="center">
@@ -53,19 +62,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-vanessa--nicole--contreras--orellana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-
-<!--
-**vn-core/vn-core** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

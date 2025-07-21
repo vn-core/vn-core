@@ -58,7 +58,7 @@ You’ll also find a downloadable CV in English and Spanish there!
 ## 🔗 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vanessa-nicole-contreras-orellana-041a35346/">
+  <a href="https://www.linkedin.com/in/vncore/">
     <img src="https://img.shields.io/badge/LinkedIn-vanessa--nicole--contreras--orellana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
